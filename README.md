@@ -2,11 +2,10 @@
 This contains lab projects that I have completed during this course.
 
 ## General Information:
-* Lab 1 is simple conversion program that converts two units, Fahrenheit and Celsius
-* Lab 2 is a similar program to the ELIZA program
-* Lab 3 is a guessing game program where the user inputs a number between 1-10
-* Lab 4 generates a random sentence using a random set words in an array
-* Translator is a program that translate a number in English to Spanish
+* Lab 1 is a program that represents a credit card account with functionality to add a charge, make a payment, add interest and ability to transfer to another account. 
+* Lab 2 is a program that keeps track of Students enrolled in a Course. It has the ability to add, drop or wait list a student based on course availability. 
+* Lab 3 is a program that utilizes a driver that displays animal characteristics using parent classes, child classes and interfaces. 
+* Lab 4 is a program that uses GUI to display data from the San Francisco Police Department crime database and provides the amount of homicides in a span of a few years with the ability to filter by neighborhood and/or date.
 
 ## Used Technologies
 * Java
